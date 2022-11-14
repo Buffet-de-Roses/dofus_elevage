@@ -1,3 +1,5 @@
+# curl -X 'GET'   'https://api.dofusdu.de/dofus2/fr/items/consumables/all?sort%5Blevel%5D=asc&filter%5Btype_name%5D=objet%20d%27%C3%A9levage'   -H 'accept: application/json'
+
 import json
 import csv
 
