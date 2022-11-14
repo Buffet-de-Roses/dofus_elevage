@@ -22,4 +22,5 @@ for i in data['items']:
         writer.writerow(input_line)
         input_line.clear()
 f.close()
+c.close()
 
